@@ -1,0 +1,211 @@
+/**
+*@helpers
+*/
+@media (min-width: 230px) {
+  .page__contact {
+    margin-bottom: 3rem; }
+    .page__contact .contact-grid .contact__item .contact__title {
+      font-style: normal;
+      font-weight: 600;
+      font-size: 2.5rem;
+      line-height: 3.6rem;
+      text-align: center;
+      color: #09090B;
+      margin-bottom: 1.5rem; }
+    .page__contact .contact-grid .contact__item .contact__group .contact__content {
+      font-family: "Quicksand-Medium";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 1.4rem;
+      line-height: 2.4rem;
+      color: #323232; }
+    .page__contact .contact-grid .contact__item .contact__group .contact__info .info-item {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: start;
+      -webkit-justify-content: flex-start;
+      -moz-box-pack: start;
+      -ms-flex-pack: start;
+      justify-content: flex-start;
+      -webkit-box-align: start;
+      -webkit-align-items: flex-start;
+      -moz-box-align: start;
+      -ms-flex-align: start;
+      align-items: flex-start;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      margin: 1.5rem 0;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 1.8rem;
+      line-height: 2.8rem;
+      text-align: justify;
+      color: #323232;
+      word-break: break-word; }
+      .page__contact .contact-grid .contact__item .contact__group .contact__info .info-item img {
+        width: 20px;
+        margin: auto 1.1rem auto 0; }
+      .page__contact .contact-grid .contact__item .contact__group .contact__info .info-item span {
+        max-width: -webkit-calc(100% - 31px);
+        max-width: -moz-calc(100% - 31px);
+        max-width: calc(100% - 31px); }
+      .page__contact .contact-grid .contact__item .contact__group .contact__info .info-item:last-child {
+        margin-bottom: 0; }
+    .page__contact .contact-grid .contact__item .form__input {
+      width: 100%; }
+      .page__contact .contact-grid .contact__item .form__input input {
+        width: 100%;
+        height: 30px;
+        margin: 1.5rem 0; }
+      .page__contact .contact-grid .contact__item .form__input .input-comment {
+        background: #FFFFFF;
+        border: 1px solid #C2C5CC;
+        width: 100%;
+        height: 120px;
+        padding: 1.5rem 0 0 1.6rem;
+        margin-top: 1.5rem;
+        font-family: "Quicksand-Medium"; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment::-webkit-input-placeholder {
+          font-family: "Quicksand-Medium";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 1.6rem;
+          line-height: 2.6rem;
+          color: #323232; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment::-moz-placeholder {
+          font-family: "Quicksand-Medium";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 1.6rem;
+          line-height: 2.6rem;
+          color: #323232; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment:-ms-input-placeholder {
+          font-family: "Quicksand-Medium";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 1.6rem;
+          line-height: 2.6rem;
+          color: #323232; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment::-ms-input-placeholder {
+          font-family: "Quicksand-Medium";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 1.6rem;
+          line-height: 2.6rem;
+          color: #323232; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment::placeholder {
+          font-family: "Quicksand-Medium";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 1.6rem;
+          line-height: 2.6rem;
+          color: #323232; }
+        .page__contact .contact-grid .contact__item .form__input .input-comment:focus {
+          border: 1px solid #0069BB;
+          outline: 0; }
+      .page__contact .contact-grid .contact__item .form__input .btn__send {
+        width: 100%;
+        height: 45px;
+        margin: 3rem 0; } }
+
+.contact__map {
+  margin-bottom: 3rem; }
+  .contact__map .map iframe {
+    width: 100%;
+    height: 250px; }
+
+@media (min-width: 600px) {
+  .page__contact .contact-grid .contact__item .form__input input {
+    height: 45px; } }
+
+@media (min-width: 700px) {
+  .page__contact .contact-grid {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[2];
+    grid-template-columns: repeat(2, 1fr);
+    -ms-grid-rows: (auto)[1];
+    grid-template-rows: repeat(1, auto);
+    grid-gap: 30px; }
+    .page__contact .contact-grid .contact__item {
+      margin: auto; }
+      .page__contact .contact-grid .contact__item:first-child .contact__title {
+        text-align: left;
+        margin-top: 0; }
+      .page__contact .contact-grid .contact__item:last-child {
+        padding: 0 3rem;
+        -webkit-box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.16);
+        box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.16); }
+      .page__contact .contact-grid .contact__item .contact__title {
+        margin: 1.5rem 0; }
+  .contact__map .map iframe {
+    width: 100%;
+    height: 300px; } }
+
+@media (min-width: 992px) {
+  .page__contact {
+    margin-bottom: 0rem; }
+    .page__contact .contact-grid {
+      grid-gap: 60px; }
+      .page__contact .contact-grid .contact__item .contact__title {
+        margin: 3.8rem 0 2.3rem; }
+      .page__contact .contact-grid .contact__item .form__input input {
+        height: 60px; }
+      .page__contact .contact-grid .contact__item .form__input .btn__send {
+        height: 60px; }
+  .contact__map {
+    margin-bottom: 5rem; }
+    .contact__map .map iframe {
+      width: 100%;
+      height: 400px; } }
+
+@media (min-width: 1200px) {
+  .page__contact .contact-grid {
+    grid-gap: 160px; }
+    .page__contact .contact-grid .contact__item:last-child {
+      padding: 5rem;
+      }
+    .page__contact .contact-grid .contact__item .form__input .btn__send {
+      margin: 4.4rem 0; }
+  .contact__map {
+    margin-bottom: 10rem; }
+    .contact__map .map iframe {
+      width: 100%;
+      height: 620px; } }
+
+@media (max-width: 699.98px) {
+  .page__contact .contact-grid {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -moz-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; }
+    .page__contact .contact-grid .contact__item:first-child {
+      -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+      -webkit-order: 2;
+      -moz-box-ordinal-group: 3;
+      order: 2; }
+    .page__contact .contact-grid .contact__item:last-child {
+      -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+      -webkit-order: 1;
+      -moz-box-ordinal-group: 2;
+      order: 1; } }

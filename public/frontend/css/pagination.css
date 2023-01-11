@@ -1,0 +1,35 @@
+#pagenavnew{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+ul.pagination{
+background-color: rgb(228, 233, 233);
+}
+
+ul.pagination li span{
+
+    height:41px ;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.178);
+}
+.pagination a{
+    height:41px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.178);
+}
+#pagenavnew a:hover{
+    background-color: orangered;
+    color: antiquewhite;
+}
+#pagenavnew li.active{
+    background-color: orangered;
+    color: antiquewhite;
+}
