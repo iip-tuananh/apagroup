@@ -29,7 +29,7 @@ Liên hệ với chúng tôi
 			 <span>Đăng ký nhận tư vấn</span>
 		  </div>
 		  <div class="contact-grid">
-			 <div class="contact__item">
+			 {{-- <div class="contact__item">
 				<div class="contact__title">
 				   <span>Về chúng tôi</span>
 				</div>
@@ -56,7 +56,7 @@ Liên hệ với chúng tôi
 					  </div>
 				   </div>
 				</div>
-			 </div>
+			 </div> --}}
 			 <div class="contact__item">
 				<div class="contact__title">
 				   <span>Thông tin về bạn</span>
