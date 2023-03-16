@@ -57,7 +57,7 @@ Liên hệ với chúng tôi
 				   </div>
 				</div>
 			 </div> --}}
-			 <div class="contact__item">
+		
 				<div class="contact__title">
 				   <span>Thông tin về bạn</span>
 				</div>
@@ -83,7 +83,7 @@ Liên hệ với chúng tôi
 				   <span class="fr-error" id="error_content"></span>
 				   <button  type="submit" class="t-ct">Tư vấn</button>
 				</form>
-			 </div>
+		
 		  </div>
 	   </div>
 	</section>
