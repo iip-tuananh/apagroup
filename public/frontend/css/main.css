@@ -120,9 +120,7 @@ b,
 strong {
   font-weight: bolder;
 }
-.col-lg-4.col-xs-12.col-md-6.text-ct img {
-  max-width: 50%;
-}
+
 small {
   font-size: 80%;
 }
@@ -2128,4 +2126,6 @@ transform: scale(0.9);
   }
 
 }
-sss 
+.col-lg-4.col-xs-12.col-md-6.text-ct img {
+  max-width: 218px;
+}
