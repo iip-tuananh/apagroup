@@ -129,17 +129,17 @@ export default {
             }
           ],
         },
-        {
-          icon: "mdi mdi-newspaper menu-icon",
-          name: "Quản lý dịch vụ",
-          route_name: "",
-          sub: [
-            {
-              name: "Danh sách",
-              path: "/service",
-            }
-          ],
-        },
+        // {
+        //   icon: "mdi mdi-newspaper menu-icon",
+        //   name: "Quản lý dịch vụ",
+        //   route_name: "",
+        //   sub: [
+        //     {
+        //       name: "Danh sách",
+        //       path: "/service",
+        //     }
+        //   ],
+        // },
         {
           icon: "mdi mdi-newspaper menu-icon",
           name: "Quản lý tin tức",
@@ -191,14 +191,14 @@ export default {
               name: "Quản lý banner",
               path: "/banner",
             },
-            {
-              name: "Banner quảng cáo",
-              path: "/bannerads",
-            },
             // {
-            //   name: "Quản lý đối tác",
-            //   path: "/partner",
+            //   name: "Banner quảng cáo",
+            //   path: "/bannerads",
             // },
+            {
+              name: "Quản lý đối tác",
+              path: "/partner",
+            },
             // {
             //   name: "Thư viện ảnh",
             //   path: "/prize",
@@ -217,25 +217,25 @@ export default {
             },
           ],
         },
-        {
-          icon: "mdi mdi-shopping-music menu-icon",
-          name: "Quản lý đơn hàng",
-          route_name: "",
-          sub: [
-            {
-              name: "Đơn hàng cần kiểm tra",
-              path: "/bill/draft",
-            },
-            {
-              name: "Đơn hàng đã thanh toán",
-              path: "/bill/paymented",
-            },
-            // {
-            //   name: "Đơn hàng chưa hoàn tất",
-            //   path: "/bill/Unpayment",
-            // },
-          ],
-        },
+        // {
+        //   icon: "mdi mdi-shopping-music menu-icon",
+        //   name: "Quản lý đơn hàng",
+        //   route_name: "",
+        //   sub: [
+        //     {
+        //       name: "Đơn hàng cần kiểm tra",
+        //       path: "/bill/draft",
+        //     },
+        //     {
+        //       name: "Đơn hàng đã thanh toán",
+        //       path: "/bill/paymented",
+        //     },
+        //     // {
+        //     //   name: "Đơn hàng chưa hoàn tất",
+        //     //   path: "/bill/Unpayment",
+        //     // },
+        //   ],
+        // },
         // {
         //   icon: "mdi mdi-shopping-music menu-icon",
         //   name: "Quản lý khuyến mãi",
