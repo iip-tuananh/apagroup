@@ -34,8 +34,6 @@
     
     <div id="app"></div>
     <!-- built files will be auto injected -->
-
     <script src="{{ asset('js/app.js') }}"></script>
-
   </body>
 </html>

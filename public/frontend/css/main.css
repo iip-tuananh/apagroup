@@ -120,7 +120,9 @@ b,
 strong {
   font-weight: bolder;
 }
-
+.col-lg-4.col-xs-12.col-md-6.text-ct img {
+  max-width: 50%;
+}
 small {
   font-size: 80%;
 }
@@ -1099,7 +1101,7 @@ body.body__hidden {
   }
 
   #header .header-body .header__banner .logo img {
-    width: 100%;
+    width: 40%;
     -o-object-fit: contain;
     object-fit: contain;
   }
