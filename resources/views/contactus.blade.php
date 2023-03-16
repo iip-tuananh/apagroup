@@ -29,34 +29,7 @@ Liên hệ với chúng tôi
 			 <span>Đăng ký nhận tư vấn</span>
 		  </div>
 		  <div class="contact-grid">
-			 {{-- <div class="contact__item">
-				<div class="contact__title">
-				   <span>Về chúng tôi</span>
-				</div>
-				<div class="contact__group">
-				   <div class="contact__content">
-					  <p>
-						{!!$pageContent->content!!}
-					  </p>
-				   </div>
-				   <div class="contact__info">
-					  <div class="info-item">
-						 <img src="{{asset('frontend/img/icon__contact-phone.png')}}" alt="{{$setting->phone1}}">
-						 <span>{{$setting->phone1}}</span>
-					  </div>
-					  <div class="info-item">
-						 <img src="{{asset('frontend/img/icon__email-c.png')}}" alt="{{$setting->email}}">
-						 <span>{{$setting->email}}</span>
-					  </div>
-					  <div class="info-item">
-						 <img src="{{asset('frontend/img/icon__addr.png')}}" alt="{{$setting->address1}}">
-						 <span>
-						 {{$setting->address1}}
-						 </span>
-					  </div>
-				   </div>
-				</div>
-			 </div> --}}
+			
 			 <div class="contact__item">
 				<div class="contact__title">
 				   <span>Thông tin về bạn</span>
@@ -83,6 +56,29 @@ Liên hệ với chúng tôi
 				   <span class="fr-error" id="error_content"></span>
 				   <button  type="submit" class="t-ct">Tư vấn</button>
 				</form>
+			 </div>
+			  <div class="contact__item">
+				<div class="contact__title">
+				   <span>Về chúng tôi</span>
+				</div>
+				<div class="contact__group">
+				   <div class="contact__info">
+					  <div class="info-item">
+						 <img src="{{asset('frontend/img/icon__contact-phone.png')}}" alt="{{$setting->phone1}}">
+						 <span>{{$setting->phone1}}</span>
+					  </div>
+					  <div class="info-item">
+						 <img src="{{asset('frontend/img/icon__email-c.png')}}" alt="{{$setting->email}}">
+						 <span>{{$setting->email}}</span>
+					  </div>
+					  <div class="info-item">
+						 <img src="{{asset('frontend/img/icon__addr.png')}}" alt="{{$setting->address1}}">
+						 <span>
+						 {{$setting->address1}}
+						 </span>
+					  </div>
+				   </div>
+				</div>
 			 </div>
 		  </div>
 	   </div>
