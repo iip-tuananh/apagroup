@@ -28,7 +28,7 @@ Liên hệ với chúng tôi
 		  <div class="header__global">
 			 <span>Đăng ký nhận tư vấn</span>
 		  </div>
-		 
+		  <div class="contact-grid">
 			 {{-- <div class="contact__item">
 				<div class="contact__title">
 				   <span>Về chúng tôi</span>
@@ -84,7 +84,7 @@ Liên hệ với chúng tôi
 				   <button  type="submit" class="t-ct">Tư vấn</button>
 				</form>
 			 </div>
-		  
+		  </div>
 	   </div>
 	</section>
 	<section class="contact__map">
