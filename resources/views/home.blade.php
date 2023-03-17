@@ -22,7 +22,7 @@
                      <img class="frame__image"  src="{{$item->image}}" alt="{{$item->image}}">
                      <div class="img" style="background-image: url('{{$item->image}}')"></div>
                   </div>
-                  <h1 class="banner__title">{{$item->title}}</h1>
+                  {{-- <h1 class="banner__title">{{$item->title}}</h1> --}}
                </div>
             @endforeach
          </section>
