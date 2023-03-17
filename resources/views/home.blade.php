@@ -30,10 +30,10 @@
          <section class="home-field">
             <div class="container">
                <div class="home-field__content">
-                  <span class="field__tag"> AP GROUP </span>
+                  <span class="field__tag"> APA GROUP </span>
                   <h2 class="title__global">LĨNH VỰC HOẠT ĐỘNG</h2>
                   <div class="field__info">
-                     <p>Ng&agrave;y nay, với sự ph&aacute;t triển kh&ocirc;ng ngừng của KH &ndash; KT v&agrave; sự nỗ lực kh&ocirc;ng mệt mỏi của c&ocirc;ng ty đ&atilde; gi&uacute;p ch&uacute;ng t&ocirc;i trở th&agrave;nh một trong những đơn vị dẫn đầu trong lĩnh vực sản xuất c&aacute;c sản phẩm : Nh&ocirc;m thanh định h&igrave;nh mang thương hiệu AP ,cửa nh&ocirc;m, cửa cuốn mang thương hiệu AP. Đảm bảo cung cấp ra thị trường h&agrave;ng chục ngh&igrave;n tấn nh&ocirc;m mỗi năm với chất lượng v&agrave; dịch vụ vượt trội, đ&aacute;p ứng nhu cầu ng&agrave;y c&agrave;ng cao của ng&agrave;nh nh&ocirc;m Việt v&agrave; xuất khẩu ra thị trường nước ngo&agrave;i.</p>
+                     <p>Ng&agrave;y nay, với sự ph&aacute;t triển kh&ocirc;ng ngừng của KH &ndash; KT v&agrave; sự nỗ lực kh&ocirc;ng mệt mỏi của c&ocirc;ng ty đ&atilde; gi&uacute;p ch&uacute;ng t&ocirc;i trở th&agrave;nh một trong những đơn vị dẫn đầu trong lĩnh vực sản xuất c&aacute;c sản phẩm : Nh&ocirc;m thanh định h&igrave;nh mang thương hiệu APA ,cửa nh&ocirc;m, cửa cuốn mang thương hiệu APA. Đảm bảo cung cấp ra thị trường h&agrave;ng chục ngh&igrave;n tấn nh&ocirc;m mỗi năm với chất lượng v&agrave; dịch vụ vượt trội, đ&aacute;p ứng nhu cầu ng&agrave;y c&agrave;ng cao của ng&agrave;nh nh&ocirc;m Việt v&agrave; xuất khẩu ra thị trường nước ngo&agrave;i.</p>
                   </div>
                </div>
             </div>
@@ -114,7 +114,7 @@
                <div class="module__header">
                   <h2 class="title__global" style="color:orangered">HÀNH TRÌNH 15 NĂM PHÁT TRIỂN</h2>
                   <div class="info__global" style="font-style: italic">
-                     Bằng khát vọng mang tới những sản phẩm thương hiệu Việt thực sự chất lượng cùng định hướng phát triển bền vững, Ap Group phấn đấu trở thành Tập đoàn sản xuất và cung ứng nhôm thanh định hình và cửa cuốn theo xu hướng hiện đại, thân thiện với môi trường hàng đầu tại Việt Nam và hướng tới thị trường xuất khẩu.
+                     Bằng khát vọng mang tới những sản phẩm thương hiệu Việt thực sự chất lượng cùng định hướng phát triển bền vững, APA Group phấn đấu trở thành Tập đoàn sản xuất và cung ứng nhôm thanh định hình và cửa cuốn theo xu hướng hiện đại, thân thiện với môi trường hàng đầu tại Việt Nam và hướng tới thị trường xuất khẩu.
                   </div>
                </div>
                <div class="develope__slide">
