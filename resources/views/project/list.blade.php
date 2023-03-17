@@ -16,10 +16,10 @@
 @endsection
 @section('content')
 <main id="main">
-   <h1 style="display: none">{{$title_page}}</h1>
+   <h1 style="display: none">Tất cả dự án</h1>
    <section class="page__banner" style="background-image: url('{{asset('frontend/img/anhduan.jpg')}}')">
       <div class="container">
-         <h2 class="title__global">{{$title_page}} </h2>
+         <h2 class="title__global">Tất cả dự án</h2>
       </div>
    </section>
    <section class="page__new">
